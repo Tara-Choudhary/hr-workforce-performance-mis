@@ -86,11 +86,10 @@ See [`Data/README.md`](Data/README.md) for data-source and handling notes.
 - `Project_Documentation.md` — methodology, metrics, and limitations
 - `Data/README.md` — source and data-handling notes
 - `Screenshots/HR_Dashboard.png` — dashboard preview
-- `HR_Workforce_Performance_MIS.xlsx` — add your sanitized final workbook here before publishing
-
+- `HR_Workforce_Performance_MIS.xlsx` 
 ## How to use
 
-1. Download the sanitized Excel workbook from this repository.
+1. Download the Excel workbook from this repository.
 2. Open `HR_Dashboard`.
 3. Use the Department slicer to filter the report.
 4. Clear the slicer selection to return to the overall view.
