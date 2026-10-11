@@ -86,7 +86,7 @@ See [`Data/README.md`](Data/README.md) for data-source and handling notes.
 - `Project_Documentation.md` — methodology, metrics, and limitations
 - `Data/README.md` — source and data-handling notes
 - `Screenshots/HR_Dashboard.png` — dashboard preview
-- `HR_Workforce_Performance_MIS.xlsx` 
+- `HR Workforce & Performance MIS Reporting System.xlsx` 
 ## How to use
 
 1. Download the Excel workbook from this repository.
